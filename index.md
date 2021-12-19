@@ -13,10 +13,10 @@ hier die Auflistung der verwendeten Materialien:**
 |<img src="Images/45Muffe1.jpg" width="100" height="100">| 45° Muffe einer Pressung | _Ø15_: **7** |
 |<img src="Images/45Muffe2.jpg" width="100" height="100">| 45° Muffe zwei Pressungen | _Ø15_: **3** |
 |<img src="Images/T-Muffe.jpg" width="100" height="100">| T-Muffe | _Ø15,15,15_: **3**<br>_Ø18,18,15_: **3** |
-|<img src="Images/Reduzierungsmuffe.jpg" width="100" height="100">| Reduzierung | _Ø18->15: **1** |
-|<img src="Images/Kappe.jpg" width="100" height="100">| Kappe | _Ø18: **2** |
-|<img src="Images/DoppelMantegeeinheit.jpg" width="100" height="100">| Doppel Wasseranschluss | _Ø15: **2** |
-|<img src="Images/EinfachWandscheibe.jpg" width="100" height="100">| Einfach Wasseranschluss | _Ø15: **2** |
+|<img src="Images/Reduzierungsmuffe.jpg" width="100" height="100">| Reduzierung | _Ø18->15_: **1** |
+|<img src="Images/Kappe.jpg" width="100" height="100">| Kappe | _Ø18_: **2** |
+|<img src="Images/DoppelMantegeeinheit.jpg" width="100" height="100">| Doppel Wasseranschluss | _Ø15_: **2** |
+|<img src="Images/EinfachWandscheibe.jpg" width="100" height="100">| Einfach Wasseranschluss | _Ø15_: **2** |
 |<img src="Images/Rohrschelle.jpg" width="100" height="100">| Rohrschelle | _Schelle_: **14**<br>_kurzes Gewinde_: **14**<br>_kurze Schraube_: **14**<br>_Dübel_: **14** |
 
 
