@@ -25,3 +25,7 @@ hier die Auflistung der verwendeten Materialien:**
 <br>
 ### Hier noch ein paar Bilder wie es aussieht:
 
+<img src="Images/Final/Final1.jpg">
+<img src="Images/Final/Final2.jpg">
+<img src="Images/Final/Final3.jpg">
+<img src="Images/Final/Final4.jpg">
