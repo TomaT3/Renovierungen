@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/TomaT3/Renovierungen/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+| Bild | Beschreibung      | Anzahl |
+| ----------- | ----------- | ----------- |
+|<img src="Images/90Muffe1.jpg" alt="SpiritSpenderFront" width="100" height="100"> | muffe Q | 123 |
+|<img src="Images/90Muffe2.jpg" alt="SpiritSpenderFront" width="100" height="100">| Muffe 1 | 2 |
+
+<br>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
